@@ -1,0 +1,15 @@
+Things to do to improve program:
+
+A priority
+
+(-) Make channels, sense resistors, etc. configurable
+(-) Add legend for data.
+(-) Add File output of log
+(-) Cleanup Gui buttons
+(-) Change CSVwriter to straight file IO to get rid of extraneous doublequotes
+
+B priority
+(-) Parameterize setup?
+(-) Move Agilent/Keysight communication functions to module
+(-) Simplify list comprehensions to single loop (if possible).  Ugly or tricky.
+(-) Add more comments.
